@@ -166,13 +166,6 @@ The summaries were evaluated based on:
 
 
 
-
-## OUTPUT
-
-<img width="1694" height="929" alt="image" src="https://github.com/user-attachments/assets/0c824f7e-ec1c-4d29-bfb5-37e2bde094d3" />
-
-
-
 ## RESULT
 
 The experiment showed that the combination of **Role-based Prompting with ChatGPT** provided the best balance of accuracy, coherence, simplicity, and user experience for educational text summarization.
